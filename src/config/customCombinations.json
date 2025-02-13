@@ -1,0 +1,9 @@
+[
+  {
+    "sourceChain": "137",
+    "destinationChain": "1",
+    "sourceToken": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+    "destinationToken": "0x16eccfdbb4ee1a85a33f3a9b21175cd7ae753db4",
+    "amount": "100000000"
+  }
+]
